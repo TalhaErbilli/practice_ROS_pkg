@@ -1,3 +1,0 @@
-[console_scripts]
-pcd_publisher_node = pcd_publisher.pcd_publisher_node:main
-
