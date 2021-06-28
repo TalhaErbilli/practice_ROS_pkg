@@ -1,0 +1,18 @@
+[0.196s] Invoking command in '/home/talha/dev_ws/src/build/pcd_publisher': PYTHONPATH=/home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/talha/dev_ws/src/install/pcd_publisher --editable --build-directory /home/talha/dev_ws/src/build/pcd_publisher/build --no-deps install_data --install-dir /home/talha/dev_ws/src/install/pcd_publisher
+[0.380s] running develop
+[0.488s] running egg_info
+[0.488s] writing pcd_publisher.egg-info/PKG-INFO
+[0.488s] writing dependency_links to pcd_publisher.egg-info/dependency_links.txt
+[0.489s] writing entry points to pcd_publisher.egg-info/entry_points.txt
+[0.489s] writing requirements to pcd_publisher.egg-info/requires.txt
+[0.489s] writing top-level names to pcd_publisher.egg-info/top_level.txt
+[0.517s] reading manifest file 'pcd_publisher.egg-info/SOURCES.txt'
+[0.517s] writing manifest file 'pcd_publisher.egg-info/SOURCES.txt'
+[0.548s] running build_ext
+[0.548s] Creating /home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages/site.py
+[0.550s] Creating /home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages/pcd-publisher.egg-link (link to .)
+[0.551s] Installing pcd_publisher_node script to /home/talha/dev_ws/src/install/pcd_publisher/lib/pcd_publisher
+[0.551s] 
+[0.551s] Installed /home/talha/dev_ws/src/build/pcd_publisher
+[0.551s] running install_data
+[0.574s] Invoked command in '/home/talha/dev_ws/src/build/pcd_publisher' returned '0': PYTHONPATH=/home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/talha/dev_ws/src/install/pcd_publisher --editable --build-directory /home/talha/dev_ws/src/build/pcd_publisher/build --no-deps install_data --install-dir /home/talha/dev_ws/src/install/pcd_publisher

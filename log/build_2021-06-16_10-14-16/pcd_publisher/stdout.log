@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing pcd_publisher.egg-info/PKG-INFO
+writing dependency_links to pcd_publisher.egg-info/dependency_links.txt
+writing entry points to pcd_publisher.egg-info/entry_points.txt
+writing requirements to pcd_publisher.egg-info/requires.txt
+writing top-level names to pcd_publisher.egg-info/top_level.txt
+reading manifest file 'pcd_publisher.egg-info/SOURCES.txt'
+writing manifest file 'pcd_publisher.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages/site.py
+Creating /home/talha/dev_ws/src/install/pcd_publisher/lib/python3.8/site-packages/pcd-publisher.egg-link (link to .)
+Installing pcd_publisher_node script to /home/talha/dev_ws/src/install/pcd_publisher/lib/pcd_publisher
+
+Installed /home/talha/dev_ws/src/build/pcd_publisher
+running install_data
